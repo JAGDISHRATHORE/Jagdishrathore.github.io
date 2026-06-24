@@ -14,7 +14,7 @@ Research Reports
 This report provides a comprehensive study of prompt engineering techniques in Large Language Models (LLMs) and Vision-Language Models (VLMs). The report examines CLIP, prompt ensembling, multimodal reasoning, bias analysis, and practical applications of prompt engineering in computer vision systems.
 
 3. Large Language Models Can Be Easily Distracted by Irrelevant Context
-   [📄 View Full Report](LLM_IrrelevantContext.pdf)
+   [View Full Report](LLM_IrrelevantContext.pdf)
 
 This report investigates how irrelevant information affects reasoning performance in Large Language Models. It evaluates prompting strategies such as Chain-of-Thought (CoT), Least-to-Most Prompting, Zero-Shot Prompting, and Self-Consistency to improve robustness and reasoning accuracy.
 
