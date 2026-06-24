@@ -1,6 +1,6 @@
-Jagdish Dattarsingh Rathore
+# Jagdish Dattarsingh Rathore
 
-AI & Machine Learning Research Portfolio
+## AI & Machine Learning Research Portfolio
 
 I am a Master’s student in Artificial Intelligence and Machine Learning with interests in Large Language Models (LLMs), Vision-Language Models (VLMs), Prompt Engineering, and Applied AI Research.
 
